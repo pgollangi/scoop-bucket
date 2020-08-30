@@ -6,5 +6,5 @@ Add this bucket:
 scoop bucket add pgollangi-bucket https://github.com/pgollangi/scoop-bucket.git
 ```
 
-Available tools
+Available apps
 - [netselect](https://github.com/pgollangi/netselect)
