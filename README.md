@@ -8,3 +8,7 @@ scoop bucket add pgollangi-bucket https://github.com/pgollangi/scoop-bucket.git
 
 Available apps
 - [netselect](https://github.com/pgollangi/netselect)
+
+  ```
+  scoop install netselect
+  ```
