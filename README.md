@@ -12,3 +12,8 @@ Available apps
   ```
   scoop install netselect
   ```
+- [fastget](https://github.com/pgollangi/fastget)
+
+  ```
+  scoop install netselect
+  ```
