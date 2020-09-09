@@ -1,21 +1,21 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/pgollangi/fastget/releases/download/v0.1.0/fastget_0.1.0_windows_i386.zip",
+            "url": "http://github.com/pgollangi/fastget/releases/download/v0.2.0/fastget_0.2.0_windows_i386.zip",
             "bin": [
                 "fastget.exe",
                 "bin/fastget.exe"
             ],
-            "hash": "aa7c82688af3b5f3c6fd0b6b428bc722d6196f9968410a3c073d4b6d39dd92e6"
+            "hash": "13f0a09a619efe6c12f33ee605fa64f995f054013cc8463f06d79c0e08a58494"
         },
         "64bit": {
-            "url": "http://github.com/pgollangi/fastget/releases/download/v0.1.0/fastget_0.1.0_windows_x86_64.zip",
+            "url": "http://github.com/pgollangi/fastget/releases/download/v0.2.0/fastget_0.2.0_windows_x86_64.zip",
             "bin": [
                 "fastget.exe",
                 "bin/fastget.exe"
             ],
-            "hash": "5293729f9744cca52f8485b0139367913b2000ad377c9328f8264972e5ee59dd"
+            "hash": "dc6ec423b335ec35d6f3281943a35beb567ad6bbf1957b028272a56dfdcd3273"
         }
     },
     "homepage": "https://github.com/pgollangi/fastget",
