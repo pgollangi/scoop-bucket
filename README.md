@@ -17,3 +17,8 @@ Available apps
   ```
   scoop install fastget
   ```
+- [fireql](https://github.com/pgollangi/fireql)
+
+  ```
+  scoop install fireql
+  ```
