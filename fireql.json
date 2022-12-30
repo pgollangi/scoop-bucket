@@ -1,0 +1,22 @@
+{
+    "version": "0.1.3",
+    "architecture": {
+        "32bit": {
+            "url": "http://github.com/pgollangi/FireQL/releases/download/v0.1.3/fireql_Windows_i386.zip",
+            "bin": [
+                "fireql.exe"
+            ],
+            "hash": "aa668f15bee9a798e7f2482d0d133b0d958475203369153a7066b450a57ca6f4"
+        },
+        "64bit": {
+            "url": "http://github.com/pgollangi/FireQL/releases/download/v0.1.3/fireql_Windows_x86_64.zip",
+            "bin": [
+                "fireql.exe"
+            ],
+            "hash": "ba7b51c96ae9cdd3e2a2518d28b2a7bbeec6ba9b8c7f004134a42b7c587d550a"
+        }
+    },
+    "homepage": "https://github.com/pgollangi/FireQL",
+    "license": "MIT",
+    "description": "Query Google Firestore database using SQL syntax."
+}
