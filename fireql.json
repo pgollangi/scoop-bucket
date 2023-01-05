@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "32bit": {
-            "url": "http://github.com/pgollangi/FireQL/releases/download/v0.2.1/fireql_Windows_i386.zip",
+            "url": "http://github.com/pgollangi/FireQL/releases/download/v0.2.2/fireql_Windows_i386.zip",
             "bin": [
                 "fireql.exe"
             ],
-            "hash": "414a308e088eb3e99cf3fb79875f38bb4b2629543ca0e93bbc777d4aef434c58"
+            "hash": "02abea8054e7eae77f6d0e107867102d603fa25ecee36a4490b5548ea56fd7ba"
         },
         "64bit": {
-            "url": "http://github.com/pgollangi/FireQL/releases/download/v0.2.1/fireql_Windows_x86_64.zip",
+            "url": "http://github.com/pgollangi/FireQL/releases/download/v0.2.2/fireql_Windows_x86_64.zip",
             "bin": [
                 "fireql.exe"
             ],
-            "hash": "a2ed476e3d2a1787b02b42bf38ef6d6581f51ea22123a213159c098488933fa1"
+            "hash": "9d1489eea382c5ea3b176a59f56504c3a81d7a361ce0e4a0504184321a5b38c9"
         }
     },
     "homepage": "https://github.com/pgollangi/FireQL",
